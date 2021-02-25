@@ -1,4 +1,4 @@
-```
+To use the drum sample, move `ym2608_adpcm_rom.bin` to `$HOME/.local/share/98fmplayer/`
+
 Credit:
-- (98fmplayer) github/takamichih
-```
+- github/takamichih (98fmplayer)
